@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1730740242252,
+    "userId": 1730740065636,
+    "content": "Another beautiful day....🥱... edited post",
+    "likes": 1,
+    "comments": [],
+    "timestamp": "2024-11-04T17:10:42.252Z"
+  },
+  {
+    "id": 1730740382295,
+    "userId": 1730740065636,
+    "content": "Beware of selfish people.",
+    "likes": 3,
+    "comments": [
+      {
+        "userId": 1730740065636,
+        "comment": "Nice post!👍.."
+      }
+    ],
+    "timestamp": "2024-11-04T17:13:02.295Z"
+  }
+]
